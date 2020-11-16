@@ -9,4 +9,5 @@ Compilers have to perform three major tasks when presented with a program text (
 2. Syntactic analysis.
 3. Code generation or execution .
 
-You can check for morre information about JavaCC (1): https://javacc.github.io/javacc/faq.html , (2): http://web.cs.wpi.edu/~kal/courses/compilers/JAVACC/JavaccPaser.htm
+You can check for morre information about JavaCC (1): https://javacc.github.io/javacc/faq.html 
+You can check for morre information about JavaCC (2): http://web.cs.wpi.edu/~kal/courses/compilers/JAVACC/JavaccPaser.htm
